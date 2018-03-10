@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat May 27 06:34:37 AEST 2017
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=EZShare.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=<inc|EZShare_7.0/WDCkeystore>;<inc|EZShare_7.0/src>
