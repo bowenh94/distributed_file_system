@@ -1,4 +1,4 @@
-# distributed_file_system
+# Distributed File System
 The intention of this project was to create a resource sharing network titled “EZShare” that could facilitate communication between client and server as well as server to server to fulfil various functions. The primary aims of the system were to:
 
 * Setup point-to-point connections between servers as well as between client and server.
@@ -9,4 +9,4 @@ The intention of this project was to create a resource sharing network titled �
 
 * Allow clients to fetch locally saved files from the server that have been added to the resource list.
 
-* Setup a system where servers can exchange their list of known servers to said servers at a regular interval to expand and maintain the network.
+* Setup a system where servers can exchange their list of known servers to peers servers at a regular interval to expand and maintain the network.
